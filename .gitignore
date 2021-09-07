@@ -1,9 +1,0 @@
-node_modules
-*.pdf
-.DS_Store
-
-# package directories
-jspm_packages
-
-# Serverless directories
-.serverless
